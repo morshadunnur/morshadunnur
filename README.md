@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎:
 - Hire me on <a href="https://www.upwork.com/freelancers/~01d12c79c2a30dbca2">Upwork</a> 💼
-- Learning in public on  o <a href="https://www.morshadunnur.me">morshadunnur.me</a> 📹 ✍🏾
+- Website <a href="https://www.morshadunnur.me">morshadunnur.me</a> 📹 ✍🏾
+- PHP/Laravel Packages <a href="https://packagist.org/users/morshadunnur/packages/">Packagist</a>
 - Follow me on twitter <a href="https://twitter.com/morshadun"> Twitter </a> 👥
 - Follow me on Instagram <a href="https://www.instagram.com/morshadunnur/"> Instagram </a> 🗨
 - Sharing updates on <a href="https://www.linkedin.com/in/morshadunnur/">LinkedIn</a> 📸
