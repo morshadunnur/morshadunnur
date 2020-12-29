@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - Follow me on Instagram <a href="https://www.instagram.com/morshadunnur/"> Instagram </a> 🗨
 - Sharing updates on <a href="https://www.linkedin.com/in/morshadunnur/">LinkedIn</a> 📸
 
+![Github Score](https://github-readme-stats.vercel.app/api?username=morshadunnur, "Md Morshadun Nur")
+
 
