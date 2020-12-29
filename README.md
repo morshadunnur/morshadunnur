@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - Follow me on Instagram <a href="https://www.instagram.com/morshadunnur/"> Instagram </a> 🗨
 - Sharing updates on <a href="https://www.linkedin.com/in/morshadunnur/">LinkedIn</a> 📸
 
-![Morshadun's github stats](https://github-readme-stats.vercel.app/api?username=morshadunnur&count_private=true&theme=synthwave)
+![Morshadun's github stats](https://github-readme-stats.vercel.app/api?username=morshadunnur&count_private=true&theme=dracula)
 
 
